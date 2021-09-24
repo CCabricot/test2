@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="entrer_un_nom">Entrer un nom</string>
+    <string name="jouer">Jouer</string>
+    <string name="entrer_votre_nom">Entrer votre nom</string>
+    <string name="todo">TODO</string>
+</resources>
